@@ -1,0 +1,50 @@
+************** AIDD 30-Day Challenge — Task 1 *************** 
+
+Name: Alishba Nasir
+Slot: Friday(6 to 9)
+
+
+"Reflection Activity"
+
+Question1: What does AI-Driven Development mean to you?
+Answer1: To me, AI-Driven Development means working with AI tools to make coding easier and faster. Instead of doing everything by myself, I can use AI for help, ideas, and suggestions. This allows me to focus more on understanding the problem and creating better solutions. For me, AIDD is a smarter and more helpful way of developing software. 
+
+Question2: How do you see the future of Human–AI Collaboration in software development?
+Answer: I think the future of Human AI Collaboration will be very strong. Developers and AI will work together like a team. AI will generate code and give suggestions, and humans will check, improve, and guide it. This will make software development faster and better. In my opinion, AI will not replace developers it will support them and help them improve their skills.
+
+
+"Self-Test (MCQs)"
+
+1: What is the main purpose of the AI-Native Era?
+a) Replace developers
+b) Empower developers through AI tools ✔
+c) Eliminate coding
+d) Automate testing
+
+
+2: What defines an AI-driven developer?
+a) Writes only syntax
+b) Creates context-aware prompts ✔
+c) Avoids tools
+d) Works offline
+
+
+3: What does “AIDD” stand for?
+a) AI-Integrated Data Design
+b) AI-Driven Development ✔
+c) Automated IDE Deployment
+d) Adaptive Input Debugger
+
+
+4: What is the focus of Evaluation-Driven Development (EvDD)?
+a) Manual coding
+b) Evaluating and improving AI outputs ✔
+c) UI design
+d) Testing only
+
+
+5: What should developers focus on in the AI era?
+a) Syntax only
+b) Building reasoning + evaluation skills ✔
+c) Avoiding AI tools
+d) Manual workflows
